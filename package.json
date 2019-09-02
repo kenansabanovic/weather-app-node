@@ -1,0 +1,25 @@
+{
+  "name": "node-weather-app",
+  "version": "1.0.0",
+  "description": "A async weather app in node",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "request": "^2.87.0",
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenan Šabanović",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/kenansabanovic/weather-app.git"
+  }
+}
